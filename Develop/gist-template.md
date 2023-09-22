@@ -1,10 +1,12 @@
-# Title (replace with your title)
+# Cracking The Code: Regex Demystified
 
-Introductory paragraph (replace this with your text)
+In a coding galaxy not so far away, regular expressions, or regex for short, emerge as the guiding force of pattern recognition and text manipulation. These powerful tools allow programmers to bring balance to the chaos that can be data validation and text processing. In this presentation, prepare to embark on an syntactic journey into the formidable realm of regular expressions. Together, we will deconstruct their intricate components and uncover the extraordinary applications they hold.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+In this presentation, we will explore the fundamental components of regular expressions and their usage. We will cover topics such as anchors, quantifiers, the OR operator, character classes, flags, grouping and capturing, bracket expressions, greedy and lazy matching, boundaries, back-references, and look-ahead and look-behind assertions. Below is an example of a regex pattern we will analyze:
+
+^([a-zA-Z0-9._%+-]+)@([a-zA-Z0-9.-]+\.[a-zA-Z]{2,4})$
 
 ## Table of Contents
 
